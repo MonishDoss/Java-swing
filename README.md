@@ -4,10 +4,12 @@ A basic ATM interface built using Java Swing.
 
 This was my first project while learning Java.
 
-Login Info
+## Login Info
+
 Static password: 2005
 
-Features
+## Features
+
 Login screen with password verification
 
 Deposit, Withdraw, and Balance check options
@@ -16,7 +18,8 @@ Simple GUI using Swing components: JFrame, JLabel, JButton, JTextField, JPasswor
 
 Toggle password visibility
 
-Getting Started
+**Getting Started**
+
 To run the project, use the following commands in Command Prompt (CMD) or any terminal:
 
           javac ATM2.java
@@ -24,8 +27,8 @@ To run the project, use the following commands in Command Prompt (CMD) or any te
 
 These commands:
 
- **Compile the Java file (javac ATM2.java)
+ **Compile the Java file (javac ATM2.java)**
         
-Run the program (java ATM2)**
+**Run the program (java ATM2)**
         
-Enter your name, use the password 2005, and explore the basic ATM functions.
+Enter your name, **use the password 2005**, and explore the basic ATM functions.
