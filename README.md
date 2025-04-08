@@ -18,6 +18,7 @@ Toggle password visibility
 
 Getting Started
 To run the project, use the following commands in Command Prompt (CMD) or any terminal:
+
     These commands:
           **`Compile the Java file (javac ATM2.java)`**  
           **`Run the program (java ATM2)`**  
